@@ -5,7 +5,7 @@ const {stderr} = require("process");
 var mongoose = require('mongoose');
 const Student = require("./models/Student");
 // const Student = require("./models/Student");
-var mongoDB = 'mongodb+srv://esalap00:3INgtx7KDMzkDB1I@cluster0.njt58.mongodb.net/test'
+var mongoDB = 'mongodb+srv://esalap00:hUsoa4ikETDLmHRe@cluster0.njt58.mongodb.net/test'
 
 var db = mongoose.connection
 
